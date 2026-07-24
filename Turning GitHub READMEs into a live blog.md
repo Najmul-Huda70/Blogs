@@ -115,3 +115,5 @@ and that's exactly the kind of problem worth solving once, structurally,
 instead of remembering to do it manually every time.
 
 [more details](https://markdown-tools.com/react-markdown)
+
+[more details](https://hannadrehman.com/blog/enhancing-your-react-markdown-experience-with-syntax-highlighting)
